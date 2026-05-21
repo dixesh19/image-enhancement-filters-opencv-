@@ -181,28 +181,28 @@ plt.show()
 ### Smoothing Filters
 
 - Averaging filter produces blurred image
-<img width="957" height="362" alt="image" src="https://github.com/user-attachments/assets/30739c87-f57c-409d-8c56-def6ecc57d9c" />
+<img width="812" height="302" alt="image" src="https://github.com/user-attachments/assets/03f871b5-30e7-4d93-b3e9-957fe08bbf1d" />
 
 - Weighted averaging provides smoother result with less distortion
-<img width="697" height="296" alt="image" src="https://github.com/user-attachments/assets/2d23e478-7a83-42f8-af51-17f19a2ef703" />
+<img width="627" height="248" alt="image" src="https://github.com/user-attachments/assets/f9880824-6fb2-447c-bb51-fd92ba1db2ff" />
 
 - Gaussian filter preserves edges better while reducing noise
-<img width="710" height="301" alt="image" src="https://github.com/user-attachments/assets/e2dcf0f2-18eb-466a-a70f-be83f68209a8" />
+<img width="625" height="237" alt="image" src="https://github.com/user-attachments/assets/4ef99882-10ee-436a-8895-3e7203f5ce4f" />
  
 - Median filter removes salt-and-pepper noise effectively  
 
-<img width="914" height="363" alt="image" src="https://github.com/user-attachments/assets/e7fec826-abb0-4e6c-9ad2-e76c88363449" />
+<img width="825" height="297" alt="image" src="https://github.com/user-attachments/assets/508c88c0-7d7a-4dcc-bb17-e528bb3a2fb6" />
 
 ###  Sharpening Filters
 
 - Laplacian kernel enhances edges and fine details
 
-<img width="693" height="306" alt="image" src="https://github.com/user-attachments/assets/1908451d-78ad-4f14-8e03-11217eb905fd" />
+<img width="651" height="262" alt="image" src="https://github.com/user-attachments/assets/94d0d8ef-3e54-4b8e-8a56-dafda803fa28" />
 
   
 - Laplacian operator detects edges clearly in grayscale  
 
-<img width="665" height="290" alt="image" src="https://github.com/user-attachments/assets/40c6aa09-4352-4509-8b48-6a923bf7cff4" />
+<img width="653" height="242" alt="image" src="https://github.com/user-attachments/assets/04ece7b8-1695-40b8-a19d-95cbfecea5d0" />
 
 ---
 
